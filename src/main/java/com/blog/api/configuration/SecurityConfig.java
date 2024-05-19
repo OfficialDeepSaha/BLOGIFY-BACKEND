@@ -64,7 +64,8 @@ public class SecurityConfig {
 						
 						cfg.setAllowedOrigins(Arrays.asList(
 								
-								"http://localhost:5173"
+								"http://localhost:5173" ,
+							        "https://blogify-fawn-phi.vercel.app/"
 								
 								
 							)
